@@ -1,0 +1,18 @@
+
+This code was taken from http://svn.osgeo.org/gdal/spike/dxfdwg/
+I have removed all unattributed code, so it does not contain the headers from ODA.
+it is to be compiled in gdal in this directory :gdal/ogr/ogrsf_frmts/dxfdwg
+
+None of this code is copied into the IndirectDWG 
+
+It is configured into gdal with this type of command
+./configure  --with-dwgdirect=PATH/gdal/gdal/libredwg
+
+The makefile for libredwg/gdal/GDALmake.opt.in is also found in the git repo.
+
+It is only for compiling with 
+http://github.com/h4ck3rm1k3/InDirectDWG
+
+happy hacking
+
+mike
