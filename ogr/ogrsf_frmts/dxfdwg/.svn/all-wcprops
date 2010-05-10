@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/gdal/!svn/ver/13547/spike/dxfdwg
+END
+ogrwritabledwgdatasource.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/gdal/!svn/ver/13547/spike/dxfdwg/ogrwritabledwgdatasource.cpp
+END
+OdFileBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/gdal/!svn/ver/13547/spike/dxfdwg/OdFileBuf.cpp
+END
+drv_dxfdwg.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/gdal/!svn/ver/12938/spike/dxfdwg/drv_dxfdwg.html
+END
+ogrwritabledwglayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/gdal/!svn/ver/12938/spike/dxfdwg/ogrwritabledwglayer.cpp
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/12938/spike/dxfdwg/makefile.vc
+END
+OdFileBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/13547/spike/dxfdwg/OdFileBuf.h
+END
+ogrdwgdriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/gdal/!svn/ver/12938/spike/dxfdwg/ogrdwgdriver.cpp
+END
+GNUmakefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/gdal/!svn/ver/12938/spike/dxfdwg/GNUmakefile
+END
+ogr_dwg.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/gdal/!svn/ver/13547/spike/dxfdwg/ogr_dwg.h
+END
